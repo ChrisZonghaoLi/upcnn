@@ -6,4 +6,4 @@ link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9865341
 
 Some codes are based on her: https://github.com/GT-PRC/S-TCNN
 
-Due to NDA of GF22 FD-SOI, I cannot really provide any training data here. If you want to know how to prepare the training data in detail, please contact me at zonghao.li@isl.utoronto.ca
+Due to the NDA of GF22 FD-SOI, I cannot really provide any training data here. If you want to know how to prepare the training data in detail, please contact me at zonghao.li@isl.utoronto.ca
