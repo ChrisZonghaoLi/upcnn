@@ -3,7 +3,6 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from coordConv import addCoords, addCoords_1D
-#import gpytorch
 import math
 
 cwd = os.getcwd()
