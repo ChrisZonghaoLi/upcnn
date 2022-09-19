@@ -80,7 +80,7 @@ class Tcoil_S_UpCNN(nn.Module):
         latent = self.upsample4(latent)
         latent = self.reflection4(latent)
         latent = self.conv4(latent)
-        #latent = self.norm4(latent)
+        latent = self.norm4(latent)
         latent = F.elu(latent)
 
         latent = self.upsample5(latent)
